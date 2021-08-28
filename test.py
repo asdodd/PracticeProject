@@ -16,6 +16,7 @@ yPred = reg.predict(X)
 print(X.shape)
 print(Y.shape)
 
+## CHECK
 fig = plt.figure()
 ax = fig.add_subplot(projection='3d')
 
